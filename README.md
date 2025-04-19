@@ -14,5 +14,7 @@ Database 1: rental
 - location(id, cityname, state, latitude, longitude)
 - property_details (id, square_feet, bedrooms, bathrooms)
 - media (id, has_photo)
+- sources (id, source, time)
+
 
 
