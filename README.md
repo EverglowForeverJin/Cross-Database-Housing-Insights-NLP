@@ -1,7 +1,7 @@
 # DSCI551-Final-Project
 
 ### MySQL 
-Database 1: additionalInfo
+Database 1: aptadditional
 - amenities (amenity_id, amenity_name)
 - property_amenities (id, amenity_id)
 - pricing (id, price, currency)
