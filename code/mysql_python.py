@@ -11,9 +11,9 @@ cursor.execute("create database if not exists aptadditional;")
 cursor.execute("use aptadditional;")
 cursor.execute("drop table if exists property_amenities;")
 cursor.execute("drop table if exists amenities;")
-cursor.execute("drop table if exists pricing;")
-cursor.execute("drop table if exists price_details;")
 cursor.execute("drop table if exists pets;")
+cursor.execute("drop table if exists price_details;")
+cursor.execute("drop table if exists pricing;")
 
 cursor.execute("""
 create table pricing (
