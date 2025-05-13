@@ -1,4 +1,4 @@
-# DSCI551-Final-Project
+# Cross Database Housing Insights Platform
 
 In this project, we developed a natural language interface (NLI) for both RDBMS (MySQL) and NoSQL (MongoDB) databases using Google's Gemini 'gemini-2.0-flash' model, allowing users to ask questions about apartment rentals in natural sentences and based on our well-written prompt to identify the target database and generate corresponding queries/commands to access database data.
 
